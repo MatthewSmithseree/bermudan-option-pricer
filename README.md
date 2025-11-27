@@ -1,4 +1,4 @@
-# Quant Training: Bermudan Option Pricing
+# HKUTG (Quant Division): Bermudan Option Pricing
 
 This project demonstrates how to price Bermudan (discretely exercisable American) options using the Longstaff–Schwartz Least-Squares Monte Carlo (LSMC) method in Python. It includes implementations of various regression techniques for estimating continuation values, and provides a framework for comparing their effectiveness.
 
@@ -89,3 +89,4 @@ MIT License
 ---
 
 *For questions or contributions, please open an issue or pull request.*
+
